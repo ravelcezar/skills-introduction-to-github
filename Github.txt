@@ -1,0 +1,27 @@
+# 👨‍💻 Curso Introdutório de GitHub
+
+Bem-vindo(a)! Esse é **meu curso introdutório de GitHub**. Aqui você aprenderá os conceitos básicos para começar a usar essa poderosa plataforma de versionamento de código.
+
+---
+
+## 📌 Tópicos Abordados
+
+- O que é o GitHub?
+- Diferença entre Git e GitHub
+- Como criar um repositório
+- Comandos básicos do Git
+- Realizando commits e push
+- Branches e pull requests
+- Colaboração com outros usuários
+
+---
+
+## 🚀 Começando
+
+1. Crie sua conta no [GitHub](https://github.com)
+2. Instale o [Git](https://git-scm.com)
+3. Configure seu Git local:
+
+```bash
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@example.com"
